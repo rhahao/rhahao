@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhahao&show_icons=true&theme=cobalt&count_private=true)
+![https://github.com/jstrieb/github-stats](https://github.com/rhahao/github-stats/blob/master/generated/overview.svg)
+
+![https://github.com/jstrieb/github-stats](https://github.com/rhahao/github-stats/blob/master/generated/languages.svg)
